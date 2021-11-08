@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# kaggle.json
+kaggle.json
+credentials
+
+data/*
