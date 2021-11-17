@@ -11,10 +11,25 @@ Unfortunately, there weren’t enough lifeboats for everyone on board, resulting
 
 ---
 
+- TOC
+{:toc}
+
+---
 ## How to install 
 
 | No | Step | Desctiption |
 | --- | --- | --- |
 | 1. | `python -m venv venv` | |
 | 2. | `source venv/bin/activate` | |
-| 3. | `pip install -r pip_requirements.txt` | Pip install dependecies |
+| 3. | `pip install -r pip_requirements.txt` | Pip install dependecies | 
+| 4. | `jupyter-notebook` | Open jupyter Notebook |
+| 5. | Select `project.ipynb` | Open Project |
+
+---
+
+## Plan
+
+- [ ] Input Data
+- [ ] Explore Data
+- [ ] Try Different Models (for classification)
+- [ ] Finalize Models
