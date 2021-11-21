@@ -28,6 +28,7 @@ Unfortunately, there weren’t enough lifeboats for everyone on board, resulting
 ## Plan
 
 - [x] Input Data
-- [ ] Explore Data
+- [x] Explore Data
+- [ ] Feature Engineering
 - [ ] Try Different Models (for classification)
 - [ ] Finalize Models
