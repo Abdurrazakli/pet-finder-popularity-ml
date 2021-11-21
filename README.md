@@ -11,8 +11,6 @@ Unfortunately, there weren’t enough lifeboats for everyone on board, resulting
 
 ---
 
-- TOC
-{:toc}
 
 ---
 ## How to install 
@@ -29,7 +27,7 @@ Unfortunately, there weren’t enough lifeboats for everyone on board, resulting
 
 ## Plan
 
-- [ ] Input Data
+- [x] Input Data
 - [ ] Explore Data
 - [ ] Try Different Models (for classification)
 - [ ] Finalize Models
