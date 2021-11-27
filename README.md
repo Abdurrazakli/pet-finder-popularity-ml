@@ -32,4 +32,5 @@ Unfortunately, there weren’t enough lifeboats for everyone on board, resulting
 - [x] Feature Engineering
 - [x] Data Processing
 - [ ] Try Different Models (for classification)
+    - [x] Logistic regression
 - [ ] Finalize Models
