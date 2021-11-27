@@ -34,5 +34,6 @@ Unfortunately, there weren’t enough lifeboats for everyone on board, resulting
 - [ ] Try Different Models (for classification)
     - [x] Logistic regression
     - [x] KNN
-    - [x] Random Forest Classifier 
+    - [x] Random Forest Classifier
+    - [x] SVC 
 - [ ] Finalize Models
