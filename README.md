@@ -33,5 +33,6 @@ Unfortunately, there weren’t enough lifeboats for everyone on board, resulting
 - [x] Data Processing
 - [ ] Try Different Models (for classification)
     - [x] Logistic regression
-    - [x] KNN 
+    - [x] KNN
+    - [x] Random Forest Classifier 
 - [ ] Finalize Models
