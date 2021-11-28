@@ -35,5 +35,6 @@ Unfortunately, there weren’t enough lifeboats for everyone on board, resulting
     - [x] Logistic regression
     - [x] KNN
     - [x] Random Forest Classifier
-    - [x] SVC 
+    - [x] SVC
+    - [x] XGB Classifier 
 - [ ] Finalize Models
