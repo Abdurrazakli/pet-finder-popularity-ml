@@ -37,4 +37,5 @@ Unfortunately, there weren’t enough lifeboats for everyone on board, resulting
     - [x] Random Forest Classifier
     - [x] SVC
     - [x] XGB Classifier 
+    - [x] CNN
 - [ ] Finalize Models
