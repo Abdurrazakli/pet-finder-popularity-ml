@@ -31,11 +31,12 @@ Unfortunately, there weren’t enough lifeboats for everyone on board, resulting
 - [x] Explore Data
 - [x] Feature Engineering
 - [x] Data Processing
-- [ ] Try Different Models (for classification)
+- [x] Try Different Models (for classification)
     - [x] Logistic regression
     - [x] KNN
     - [x] Random Forest Classifier
     - [x] SVC
     - [x] XGB Classifier 
     - [x] CNN
+    - [x] Ensemble Learning (soft voting with predictions)
 - [ ] Finalize Models
