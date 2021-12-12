@@ -39,4 +39,5 @@ Unfortunately, there weren’t enough lifeboats for everyone on board, resulting
     - [x] XGB Classifier 
     - [x] CNN
     - [x] Ensemble Learning (soft voting with predictions)
+- [x] Performance metrics
 - [ ] Finalize Models
