@@ -52,3 +52,9 @@ Unfortunately, there weren’t enough lifeboats for everyone on board, resulting
 ## Presentation
 
 [Presentation.pdf](/presentation/Machine_Learning_Project.pdf)
+
+
+https://user-images.githubusercontent.com/47496228/146464439-ea7950a5-cdb5-498f-9264-dce8f84bd9eb.mp4
+
+
+
