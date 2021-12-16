@@ -11,6 +11,11 @@ Unfortunately, there weren’t enough lifeboats for everyone on board, resulting
 
 ---
 
+**Table of contents:**
+- [Titanic - Kaggle Competition](#titanic---kaggle-competition)
+  * [How to install](#how-to-install)
+  * [Plan](#plan)
+  * [Presentation](#presentation)
 
 ---
 ## How to install 
@@ -40,4 +45,10 @@ Unfortunately, there weren’t enough lifeboats for everyone on board, resulting
     - [x] CNN
     - [x] Ensemble Learning (soft voting with predictions)
 - [x] Performance metrics
-- [ ] Finalize Models
+- [x] Finalize Models
+
+---
+
+## Presentation
+
+[Presentation.pdf](/presentation/Machine_Learning_Project.pdf)
